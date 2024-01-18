@@ -4,4 +4,4 @@ Console.BackgroundColor = ConsoleColor.Blue;
 
 Console.WriteLine("Welcome to My Rocking App.");
 
-Console.BackgroundColor = ConsoleColor.Black;
+Console.BackgroundColor = ConsoleColor.Red;
